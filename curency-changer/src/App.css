@@ -81,6 +81,5 @@ select:focus {
   margin: 10px 0;
   color: #3498db;
   font-weight: bold;
-  text-align: left;
-
+  text-align: center;
 }
